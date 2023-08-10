@@ -1,0 +1,2 @@
+file2 is a temt file.
+Please have a look.

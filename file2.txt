@@ -1,2 +1,5 @@
 file2 is a temt file.
 Please have a look.
+please press "o" at the end of the line
+then you will get into editing mode.
+which means you could start "inserting" words.
